@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Chengeng LI, a Ph.D student in The Hong Kong University of Science and Technology. I am from Wuhan，Hubei province. I received my bachelor degree from Huazhong University of Science and Technology. Currently, I am working in OPTICS lab under the supervision of Prof. Jiang Xu. My research interst includes cache coherence, optical interconnect, manycore processor design.
+I am Chengeng LI, a Ph.D student in The Hong Kong University of Science and Technology. I am from Wuhan，Hubei province. I received my bachelor degree from Huazhong University of Science and Technology. Currently, I am working in OPTICS lab under the supervision of Prof. [Jiang Xu](https://eexu.home.ece.ust.hk/index.html). My research interst includes cache coherence, optical interconnect, manycore processor design.
 
 Education
 ======
