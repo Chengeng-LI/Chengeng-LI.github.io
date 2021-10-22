@@ -15,7 +15,7 @@ Education
 * SEPT. 2020 - PRESENT 
   * Ph.D Student  
   * Department of Electronic and Computer Engineering (ECE) 
-  * The Hong Kong University of Science and Technology Ph.D Student (Pursuing PhD. Degree in ECE)
+  * The Hong Kong University of Science and Technology 
 
 * SEPT. 2016 - JUN. 2020 
   * Bachelor of Engineer   
