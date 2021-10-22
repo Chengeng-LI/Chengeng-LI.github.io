@@ -12,9 +12,12 @@ I am Chengeng LI, a Ph.D student in The Hong Kong University of Science and Tech
 
 Education
 ======
-SEPT. 2020 - PRESENT
+SEPT. 2020 - PRESENT 
+------
 Ph.D Student
+------
 Department of Electronic and Computer Engineering (ECE)
+------
 The Hong Kong University of Science and Technology Ph.D Student (Pursuing PhD. Degree in ECE)
 
 
