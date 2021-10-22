@@ -18,7 +18,7 @@ Education
   * The Hong Kong University of Science and Technology 
 
 * SEPT. 2016 - JUN. 2020 
-  * Bachelor of Engineer   
+  * Bachelor of Engineering   
   * School of Electronic Information and Communications  
   * Huazhong University of Science and Technology ( 华中科技大学 ) 
 
