@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "ABOUT ME"
-excerpt: "About me"
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,7 +10,7 @@ redirect_from:
 
 I am Chengeng LI, a Ph.D student in The Hong Kong University of Science and Technology. I am from Wuhan，Hubei province. I received my bachelor degree from Huazhong University of Science and Technology. Currently, I am working in OPTICS lab under the supervision of Prof. Jiang Xu. My research interst includes cache coherence, optical interconnect, manycore processor design.
 
-EDUCATION
+Education
 ======
 * SEPT. 2020 - PRESENT 
   * Ph.D Student  
@@ -23,7 +23,7 @@ EDUCATION
   * Huazhong University of Science and Technology ( 华中科技大学 ) 
 
  
-TEACHING ASSISTANT
+Teaching Assistant
 ======
 ELEC 2350 Introduction to Computer Organization and Degisn
 
