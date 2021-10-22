@@ -25,4 +25,5 @@ Huazhong University of Science and Technology ( 华中科技大学 )
 TEACHING ASSISTANT
 ======
 ELEC 2350 Introduction to Computer Organization and Degisn
+
 ELEC 4410 CMOS VLSI Design
