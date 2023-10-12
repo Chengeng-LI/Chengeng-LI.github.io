@@ -24,8 +24,8 @@ Education
 
 Pulication
 ======
-1. <B>Chengeng Li<B>, Fan Jiang, Shixi Chen, Jiaxu Zhang, Yinyi Liu, Yuxiang Fu, Jiang Xu, “Accelerating Cache Coherence in Manycore Processor through Silicon Photonic Chiplet.” ICCAD, San Diego, California, USA, October 2022.
-2. **Chengeng Li** (co-first author), Fan Jiang (co-first author), Shixi Chen, Xianbin Li, Yinyi Liu, Lin Chen, Xiao Li, Jiang Xu, “RONet: Scaling GPU System with Silicon Photonic Chiplet.” ICCAD, San Francisco, California, USA, October 2023.
+1. **Chengeng Li**, Fan Jiang, Shixi Chen, Jiaxu Zhang, Yinyi Liu, Yuxiang Fu, Jiang Xu, “Accelerating Cache Coherence in Manycore Processor through Silicon Photonic Chiplet.” ICCAD, San Diego, California, USA, October 2022.
+2. **Chengeng Li (co-first author)**, Fan Jiang (co-first author), Shixi Chen, Xianbin Li, Yinyi Liu, Lin Chen, Xiao Li, Jiang Xu, “RONet: Scaling GPU System with Silicon Photonic Chiplet.” ICCAD, San Francisco, California, USA, October 2023.
 3. Fan Jiang(co-first author), **Chengeng Li(co-first author)**, Wei Zhang, Jiang Xu, “Collaborative Coalescing of Redundant Memory Access for GPU System.” ASP-DAC, Incheon, South Korea, January 2024.
 4. Fan Jiang(co-first author), **Chengeng Li(co-first author)**, Lin Chen, Jiaqi Liu, Jiang Xu, “SCNoCs: An Adaptive Heterogeneous Multi-NoC with Selective Compression and Power Gating.” ASP-DAC, Incheon, South Korea, January 2024.
 5. Lin Chen, Xiao Li, Fan Jiang, **Chengeng Li**, Jiang Xu, “Smart Knowledge Transfer-based Runtime Power Management.” DATE, Antwerp, Belgium, April 2023.
